@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"": [ 	{ "model": "minecraft:block/pumpkin",  "weight": 10 },
+				{ "model": "minecraft:block/pumpkin1", "weight": 6 },
+				{ "model": "minecraft:block/pumpkin2", "weight": 6 },
+				{ "model": "minecraft:block/pumpkin3", "weight": 6 } ]  
+	}
+}

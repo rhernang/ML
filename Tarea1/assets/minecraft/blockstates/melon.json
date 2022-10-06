@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"": [ 	{ "model": "minecraft:block/melon",  "weight": 10 },
+				{ "model": "minecraft:block/melon1", "weight": 6 },
+				{ "model": "minecraft:block/melon2", "weight": 6 },
+				{ "model": "minecraft:block/melon3", "weight": 6 } ]  
+	}
+}
